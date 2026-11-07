@@ -1,0 +1,22 @@
+{
+  "dataset_md5": "c58f30108f718f92721af3b95e74349a",
+  "training_script_sha256": "bef4b7eb1e17969be1317dee6ce72a7014cb48d2a58d939d15242dc2d1bf2fcb",
+  "checkpoint_sha256": "9005b41e74ead070ef85e8fa1aea1c9c11ec88b4a2b47214accf45e7d482ae3b",
+  "results": {
+    "best_epoch": 39,
+    "best_validation_accuracy": 89.22,
+    "selected_epoch_training_loss": 0.35319624565972224,
+    "final_epoch_training_loss": 0.3428031684027778,
+    "test_loss": 0.3418329833984375,
+    "test_accuracy": 88.62,
+    "epochs": 40,
+    "batch_size": 128,
+    "seed": 42,
+    "train_samples": 45000,
+    "validation_samples": 5000,
+    "test_samples": 10000,
+    "torch_version": "2.14.1+cu126",
+    "device": "cuda",
+    "elapsed_seconds": 146.0408432483673
+  }
+}
